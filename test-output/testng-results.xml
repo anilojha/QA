@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-20T03:23:29Z" name="Default suite" finished-at="2020-01-20T03:24:33Z" duration-ms="63058">
+    <groups>
+    </groups>
+    <test started-at="2020-01-20T03:23:29Z" name="Default test" finished-at="2020-01-20T03:24:33Z" duration-ms="63058">
+      <class name="Test.TestStudentsPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:29Z" name="setUp" finished-at="2020-01-20T03:23:34Z" duration-ms="4865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="A_verifyAddStudents()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:34Z" name="A_verifyAddStudents" finished-at="2020-01-20T03:23:46Z" duration-ms="11217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_verifyAddStudents -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:46Z" name="tearDown" finished-at="2020-01-20T03:23:46Z" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:46Z" name="setUp" finished-at="2020-01-20T03:23:50Z" duration-ms="4094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="B_verifStudentPage()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:50Z" name="B_verifStudentPage" finished-at="2020-01-20T03:23:54Z" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_verifStudentPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:54Z" name="tearDown" finished-at="2020-01-20T03:23:55Z" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:55Z" name="setUp" finished-at="2020-01-20T03:23:59Z" duration-ms="4164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="C_VerifySearchFunctionality()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:23:59Z" name="C_VerifySearchFunctionality" finished-at="2020-01-20T03:24:10Z" duration-ms="11616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C_VerifySearchFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:24:10Z" name="tearDown" finished-at="2020-01-20T03:24:11Z" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:24:11Z" name="setUp" finished-at="2020-01-20T03:24:16Z" duration-ms="4500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="D_Verify_Edit_Details_DeleteFeature()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:24:16Z" name="D_Verify_Edit_Details_DeleteFeature" finished-at="2020-01-20T03:24:32Z" duration-ms="16016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D_Verify_Edit_Details_DeleteFeature -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestStudentsPage@55a561cf]" started-at="2020-01-20T03:24:32Z" name="tearDown" finished-at="2020-01-20T03:24:33Z" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestStudentsPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
