@@ -6,8 +6,8 @@
       <class name="Test.TestCoursePage">
         <methods>
           <include name="tearDown"/>
+          <include name="A_Tablelinks"/>
           <include name="setUp"/>
-          <include name="Tablelinks"/>
         </methods>
       </class> <!-- Test.TestCoursePage -->
     </classes>
