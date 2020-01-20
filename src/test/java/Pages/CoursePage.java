@@ -117,7 +117,7 @@ public class CoursePage extends BasePage {
 		CreditsTitle.sendKeys(Keys.ARROW_UP);
 	}
 	public void DepartmentID() {
-		DepartmentID.sendKeys(Keys.ARROW_UP);
+		DepartmentID.sendKeys(Keys.ARROW_DOWN);
 				}
 	public void SaveButton() {
 		SaveButton.click();

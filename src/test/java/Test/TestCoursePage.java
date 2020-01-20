@@ -46,7 +46,7 @@ public class TestCoursePage extends BasePage {
 		Thread.sleep(3000);
 	}
 	@Test
-	public void Tablelinks() throws InterruptedException {
+	public void A_Tablelinks() throws InterruptedException {
 		// Verify the Edit,Details and Delete feature on courses,
 		CoursePage.coursebutton();
 		CoursePage.EditLnk();
